@@ -6,6 +6,6 @@ export * from './core';
 export * from './render/view';
 
 /**
- * default jsx factory
+ * The default jsx factory.
  */
 export const jsx = jsxFactory();
